@@ -1,2 +1,2 @@
 
-https://gavmat.github.io/pages/main/index.html
+https://gavmat.github.io/shelter/pages/main/index.html
